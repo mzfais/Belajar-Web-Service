@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Latihan JSON</title>
+</head>
+
+<body>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" type="text/javascript"></script>
+    <script>
+        $.getJSON('data.json', function (data) {
+            console.log(data);
+            alert(data.mahasiswa[0].nama);
+        });
+    </script>
+</body>
+
+</html>

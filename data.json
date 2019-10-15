@@ -1,0 +1,18 @@
+{
+    "mahasiswa": [{
+        "nim": "1718006",
+        "nama": "Khisaan ihza wahy rifaldi",
+        "alamat": "Purwodadi",
+        "prodi": "Teknik Informatika S1"
+    }, {
+        "nim": "1718010",
+        "nama": "Satria Amogha Guna",
+        "alamat": "Malang",
+        "prodi": "Teknik Informatika S1"
+    }, {
+        "nim": "1718017",
+        "nama": "Stevania Hildegardis Bere",
+        "alamat": "Atambua",
+        "prodi": "Teknik Informatika S1"
+    }]
+}
