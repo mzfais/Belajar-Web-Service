@@ -1,0 +1,101 @@
+{
+    "mahasiswa": [{
+        "nim": "1718060",
+        "nama": "Febrian Mebriyantara",
+        "alamat_asal": "Lombok",
+        "alamat_mlg": "Rusunawa No. 302",
+        "foto": "img/briand.jpg",
+        "jk": "Pria"
+    }, {
+        "nim": "1718021",
+        "nama": "Muhammad Khafidh Aulia",
+        "alamat_asal": "Kalimantan Selatan",
+        "alamat_mlg": "Rusunawa No. 303",
+        "foto": "img/khafidh.jpg",
+        "jk": "Pria"
+    }, {
+        "nim": "1718129",
+        "nama": "Daniel Eka Wijaya",
+        "alamat_asal": "Situbondo",
+        "alamat_mlg": "Rusunawa No. 303",
+        "foto": "img/ekazaki.jpg",
+        "jk": "Pria"
+    }, {
+        "nim": "1718079",
+        "nama": "Abi Tresna Utama",
+        "alamat_asal": "Lampung",
+        "alamat_mlg": "Rusunawa No. 301",
+        "foto": "img/abi.jpg",
+        "jk": "Pria"
+    }, {
+        "nim": "1718014",
+        "nama": "Andy Febrianto",
+        "alamat_asal": "Kalimantan Tengah",
+        "alamat_mlg": "Rusunawa No. 302",
+        "foto": "img/andy.jpg",
+        "jk": "Pria"
+    }, {
+        "nim": "1718028",
+        "nama": "Pratedyo Septiardo",
+        "alamat_asal": "Kalimantan Timur",
+        "alamat_mlg": "Rusunawa No. 205",
+        "foto": "img/dyo.jpg",
+        "jk": "Pria"
+    }, {
+        "nim": "1718070",
+        "nama": "Brilliananda Widhi Nugraha",
+        "alamat_asal": "Kalimantan Timur",
+        "alamat_mlg": "Rusunawa No. 404",
+        "foto": "img/brillian.jpg",
+        "jk": "Pria"
+    }, {
+        "nim": "1718063",
+        "nama": "Ira Indriastuti",
+        "alamat_asal": "Madiun",
+        "alamat_mlg": "Kost Putri Biru",
+        "foto": "img/ira.jpg",
+        "jk": "Wanita"
+    }, {
+        "nim": "1718071",
+        "nama": "Tutut Suryani",
+        "alamat_asal": "Nganjuk",
+        "alamat_mlg": "Kost Putri Inggu Laut",
+        "foto": "img/tutut.jpg",
+        "jk": "Wanita"
+    }, {
+        "nim": "1718124",
+        "nama": "Sintiya Rismayanti",
+        "alamat_asal": "Malang",
+        "alamat_mlg": "Malang",
+        "foto": "img/sintiya.jpg",
+        "jk": "Wanita"
+    }, {
+        "nim": "1718140",
+        "nama": "Silvi Dwi Megafani",
+        "alamat_asal": "Pasuruan",
+        "alamat_mlg": "Singosari",
+        "foto": "img/mega.jpg",
+        "jk": "Wanita"
+    }, {
+        "nim": "1718017",
+        "nama": "Stevania Hildegardis Bere",
+        "alamat_asal": "Atambua",
+        "alamat_mlg": "Kost Putri Dekat Kampus",
+        "foto": "img/stevania.jpg",
+        "jk": "Wanita"
+    }, {
+        "nim": "1718023",
+        "nama": "Merpati Vortuna Amerta Nale",
+        "alamat_asal": "Kupang",
+        "alamat_mlg": "Kost Putri Dekat Kampus",
+        "foto": "img/merta.jpg",
+        "jk": "Wanita"
+    }, {
+        "nim": "1718024",
+        "nama": "Yolanda Aprilia Putri Kartikasari",
+        "alamat_asal": "Kepanjen",
+        "alamat_mlg": "Kost Putri Inggu Laut",
+        "foto": "img/yolanda.jpg",
+        "jk": "Wanita"
+    }]
+}
