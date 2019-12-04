@@ -5,7 +5,7 @@ function CariFilm() {
         "type": "get",
         "dataType": "json",
         "data": {
-            "apikey": "yourapikey",
+            "apikey": "5d476833",
             "s": $('#text-cari').val()
         },
         success: function (movie) {
@@ -53,7 +53,7 @@ $('#list-movie').on('click', '.card-link', function () {
         "type": "get",
         "dataType": "json",
         "data": {
-            "apikey": "yourapikey",
+            "apikey": "5d476833",
             "i": $(this).data('id')
         },
         success: function (movie) {
